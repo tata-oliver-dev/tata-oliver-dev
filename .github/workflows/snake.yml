@@ -1,6 +1,3 @@
-<img src="https://raw.githubusercontent.com/tata-oliver-dev/gitrepo/output/snake.svg" alt="Snake animation" />
-
-Sbake.yml:
 name: Generate snake animation
 
 on:
