@@ -1,7 +1,7 @@
 ## Olá eu sou a Tata
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/tata-oliver-dev/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tata-oliver-dev&show_icons=true&theme=tokyonight" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tata-oliver-dev&show_icons=true&theme=tokyonight" />
 </a>
@@ -13,9 +13,11 @@
   <img align="center" alt="Tata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
- <div>
-   <img src="https://raw.githubusercontent.com/tata-oliver-dev/gitrepo/output/snake.svg" alt="Snake animation" />
- </div>
+<picture align="center">
+  <source media="(prefers-color-scheme: tokyonight)" srcset="https://raw.githubusercontent.com/tata-oliver-dev/tata-oliver-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tata-oliver-dev/tata-oliver-dev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tata-oliver-dev/tata-oliver-dev/output/github-contribution-grid-snake.svg">
+</picture>
  
  ##
  
