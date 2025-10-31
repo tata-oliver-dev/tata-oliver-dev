@@ -1,6 +1,9 @@
-## Olá eu sou a Tata
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=100&color=1A66BE&background=4040FF00&center=true&vCenter=true&multiline=true&width=435&height=90&lines=%2B+Hello!+I'm+Tata!+%2B+;+Welcome+to+my+profile!" alt="Typing SVG" /></a>
+  </a>
+</div>
 
-
+<img align="center" alt="" src="./src/header-gif.gif">
 <a href="https://github.com/tata-oliver-dev/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tata-oliver-dev&show_icons=true&theme=tokyonight" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tata-oliver-dev&show_icons=true&theme=tokyonight" />
